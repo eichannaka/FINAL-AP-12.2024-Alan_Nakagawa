@@ -13,7 +13,6 @@ Relevante: Mejorar la productividad organizacional y la capacidad de coordinaci�
 
 Temporal: Completar el desarrollo de la aplicación con sus funcionalidades principales en un plazo de 6 meses, con iteraciones mensuales para pruebas y ajustes según el feedback de los usuarios.
 
-# Milestones del Proyecto
 
 ## Milestone 1: Desarrollo de Funcionalidades Básicas
 - **Descripción**: Implementación de las funcionalidades principales de la aplicación, incluyendo la creación de proyectos, asignación de tareas y seguimiento del progreso.
