@@ -24,20 +24,21 @@ Temporal: Completar el desarrollo de la aplicación con sus funcionalidades prin
   </tr>
   <tr>
     <td>Baja adopción por parte de los usuarios</td>
-    <td style="background-color: orange;">Media</td>
-    <td style="background-color: red; color: white;">Alta</td>
-    <td style="background-color: red; color: white;">Alta</td>
+    <td style="background-color: #FFBF00;">Media</td> <!-- Amarillo -->
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
   </tr>
   <tr>
     <td>Problemas técnicos durante el despliegue</td>
-    <td style="background-color: orange;">Media</td>
-    <td style="background-color: red; color: white;">Alta</td>
-    <td style="background-color: red; color: white;">Alta</td>
+    <td style="background-color: #FFBF00;">Media</td> <!-- Amarillo -->
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
   </tr>
   <tr>
     <td>Cambios en los requisitos del cliente</td>
-    <td style="background-color: red; color: white;">Alta</td>
-    <td style="background-color: orange;">Media</td>
-    <td style="background-color: red; color: white;">Alta</td>
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
+    <td style="background-color: #FFBF00;">Media</td> <!-- Amarillo -->
+    <td style="background-color: #FF0000; color: white;">Alta</td> <!-- Rojo -->
   </tr>
 </table>
+
