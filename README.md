@@ -13,6 +13,31 @@ Relevante: Mejorar la productividad organizacional y la capacidad de coordinaci�
 
 Temporal: Completar el desarrollo de la aplicación con sus funcionalidades principales en un plazo de 6 meses, con iteraciones mensuales para pruebas y ajustes según el feedback de los usuarios.
 
+# Milestones del Proyecto
+
+## Milestone 1: Desarrollo de Funcionalidades Básicas
+- **Descripción**: Implementación de las funcionalidades principales de la aplicación, incluyendo la creación de proyectos, asignación de tareas y seguimiento del progreso.
+- **Fecha límite**: 1 mes desde el inicio del proyecto.
+- **Objetivo**: Tener la estructura básica de la aplicación lista para su uso interno y pruebas por parte del equipo.
+
+### Tareas asociadas:
+- Diseño de la base de datos.
+- Desarrollo de la interfaz de usuario para la creación de proyectos y tareas.
+- Implementación de la lógica para asignar tareas a colaboradores.
+
+---
+
+## Milestone 2: Pruebas y Optimización
+- **Descripción**: Fase de pruebas internas y corrección de errores, así como optimización de la experiencia de usuario.
+- **Fecha límite**: 2 meses después de la finalización del primer milestone.
+- **Objetivo**: Garantizar que la aplicación sea estable, fácil de usar y esté lista para el lanzamiento a los usuarios finales.
+
+### Tareas asociadas:
+- Pruebas de usabilidad.
+- Identificación y solución de bugs.
+- Optimización del rendimiento y la interfaz.
+
+
 ## Riesgos identificados
 
 <table>
