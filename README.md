@@ -43,6 +43,8 @@ Temporal: Completar el desarrollo de la aplicación con sus funcionalidades prin
 </table>
 Detalles:
 Baja adopción por parte de los usuarios: Es fundamental realizar una capacitación adecuada y brindar soporte para asegurar que los empleados comprendan el uso de la herramienta.
+
 Problemas técnicos durante el despliegue: Invertir en pruebas exhaustivas antes del lanzamiento para minimizar inconvenientes.
+
 Cambios en los requisitos del cliente: Implementar metodologías ágiles que permitan adaptarse rápidamente a nuevas demandas.
 
