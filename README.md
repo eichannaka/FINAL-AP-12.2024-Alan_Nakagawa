@@ -43,7 +43,7 @@ Temporal: Completar el desarrollo de la aplicación con sus funcionalidades prin
 </table>
 # Detalles
 
-## Baja adopción por parte de los usuarios
+# Baja adopción por parte de los usuarios
 Es fundamental realizar una capacitación adecuada y brindar soporte para asegurar que los empleados comprendan el uso de la herramienta.
 
 ## Problemas técnicos durante el despliegue
