@@ -68,7 +68,6 @@ Completar el desarrollo de la aplicación con sus funcionalidades principales en
     <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
   </tr>
 </table>
---
 
 ## Detalles de los Riesgos
 
