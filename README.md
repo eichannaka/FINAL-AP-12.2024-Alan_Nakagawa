@@ -14,27 +14,30 @@ Relevante: Mejorar la productividad organizacional y la capacidad de coordinaci�
 Temporal: Completar el desarrollo de la aplicación con sus funcionalidades principales en un plazo de 6 meses, con iteraciones mensuales para pruebas y ajustes según el feedback de los usuarios.
 
 
-## Milestone 1: Desarrollo de Funcionalidades Básicas
-- **Descripción**: Implementación de las funcionalidades principales de la aplicación, incluyendo la creación de proyectos, asignación de tareas y seguimiento del progreso.
-- **Fecha límite**: 1 mes desde el inicio del proyecto.
-- **Objetivo**: Tener la estructura básica de la aplicación lista para su uso interno y pruebas por parte del equipo.
+# Milestones del Proyecto
 
-### Tareas asociadas:
-- Diseño de la base de datos.
-- Desarrollo de la interfaz de usuario para la creación de proyectos y tareas.
-- Implementación de la lógica para asignar tareas a colaboradores.
+## Milestone 1: **Relación de Áreas en una Base de Datos Compleja**
+- **Descripción:** Diseñar e implementar una base de datos robusta que permita gestionar la relación entre proyectos, colaboradores y tareas. Esto incluirá la capacidad de modificar colaboradores asignados a un proyecto, reconfigurar tareas asociadas y garantizar la trazabilidad de los cambios.
+- **Objetivo:** Crear una estructura que soporte las interacciones complejas entre los datos para ofrecer flexibilidad en la gestión de proyectos.
+- **Fecha límite:** **1 mes** desde el inicio del proyecto.
+
+**Tareas asociadas:**
+1. Diseño del esquema de base de datos relacional para soportar múltiples dependencias entre proyectos, colaboradores y tareas.
+2. Implementación de APIs para la modificación dinámica de colaboradores y tareas asociadas a proyectos.
+3. Validación de integridad referencial y pruebas de las relaciones en la base de datos.
 
 ---
 
-## Milestone 2: Pruebas y Optimización
-- **Descripción**: Fase de pruebas internas y corrección de errores, así como optimización de la experiencia de usuario.
-- **Fecha límite**: 2 meses después de la finalización del primer milestone.
-- **Objetivo**: Garantizar que la aplicación sea estable, fácil de usar y esté lista para el lanzamiento a los usuarios finales.
+## Milestone 2: **Hashing de Datos Sensibles de los Colaboradores**
+- **Descripción:** Proteger la información sensible de los colaboradores mediante técnicas de hashing para datos como contraseñas, y cifrado para otros datos confidenciales.
+- **Objetivo:** Garantizar la seguridad de los datos sensibles almacenados en la base de datos cumpliendo con buenas prácticas de seguridad.
+- **Fecha límite:** **2 meses** después del inicio del proyecto.
 
-### Tareas asociadas:
-- Pruebas de usabilidad.
-- Identificación y solución de bugs.
-- Optimización del rendimiento y la interfaz.
+**Tareas asociadas:**
+1. Implementar el hashing seguro (ej.: bcrypt) para las contraseñas de los colaboradores.
+2. Aplicar cifrado AES-256 para datos confidenciales como números de identificación personal.
+3. Realizar auditorías de seguridad para garantizar la implementación adecuada.
+4. Documentar el enfoque de seguridad y cómo se integran las técnicas utilizadas en el sistema.
 
 
 ## Riesgos identificados
