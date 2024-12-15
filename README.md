@@ -2,7 +2,7 @@
 
 Proyecto: La aplicación de gestión de flujo de trabajo está diseñada para que los equipos gestionen proyectos, tareas y colaboradores de manera eficiente. Ofrecemos herramientas simples, intuitivas y accesibles en todo momento, enfocándonos en mejorar la productividad, la organización interna y la colaboración entre los miembros del equipo. Nuestro objetivo es facilitar el flujo de trabajo y optimizar el tiempo empleado en las tareas diarias.
 
-Objetivos Generales SMART
+Objetivos Generales SMART</br>
 Específico: Diseñar y desarrollar una aplicación de gestión de flujo de trabajo que permita a los equipos crear, asignar y monitorear tareas, gestionar proyectos y mejorar la colaboración en el equipo.
 
 Medible: Lograr que al menos el 80% de los usuarios dentro de los equipos adopten la aplicación dentro de los primeros 3 meses posteriores al lanzamiento oficial.
