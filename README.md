@@ -82,3 +82,48 @@ Implementar metodologías ágiles que permitan adaptarse rápidamente a nuevas d
 
 ---
 
+### Factibilidad técnica y económica
+
+#### **Factibilidad técnica**  
+La factibilidad técnica evalúa si el equipo tiene los recursos tecnológicos y el conocimiento necesario para completar el proyecto. Algunos aspectos clave a considerar son:  
+
+1. **Herramientas y tecnologías disponibles:**  
+   - Verificar si el equipo cuenta con el hardware y software necesario para el desarrollo, como computadoras, IDEs, frameworks, lenguajes de programación, bases de datos y servidores.  
+   - Evaluar si la infraestructura (por ejemplo, almacenamiento en la nube o servicios de hosting) soporta los requisitos de la aplicación.  
+
+2. **Conocimientos técnicos del equipo:**  
+   - Determinar si los integrantes del equipo tienen experiencia en las tecnologías requeridas (por ejemplo, desarrollo móvil, backend, APIs).  
+   - Si hay brechas de conocimiento, prever capacitación o incorporar nuevos perfiles al equipo.  
+
+3. **Plazo de entrega:**  
+   - Confirmar si las soluciones tecnológicas elegidas permiten cumplir con los tiempos establecidos sin comprometer la calidad.  
+
+4. **Escalabilidad y mantenimiento:**  
+   - Verificar si las herramientas seleccionadas permitirán que la aplicación crezca en funcionalidad o usuarios en el futuro sin necesidad de grandes cambios.  
+
+---
+
+#### **Factibilidad económica**  
+La factibilidad económica analiza si los costos de desarrollar y mantener el proyecto son sostenibles en relación con los recursos disponibles y los beneficios esperados. Incluye los siguientes puntos:  
+
+1. **Costos de desarrollo:**  
+   - **Infraestructura:** Gastos en servidores, bases de datos, servicios en la nube o licencias de software.  
+   - **Equipo humano:** Salarios de desarrolladores, diseñadores, testers y demás roles del equipo.  
+   - **Capacitación:** Inversión en formación técnica si el equipo requiere aprender nuevas tecnologías.  
+
+2. **Costos de mantenimiento:**  
+   - Actualizaciones y mejoras continuas.  
+   - Solución de problemas y soporte técnico.  
+   - Costos operativos como hosting, monitoreo y servicios en la nube.  
+
+3. **Recursos disponibles:**  
+   - Comparar el presupuesto total disponible (ahorros, inversión externa, ingresos proyectados) con los costos estimados.  
+   - Evaluar si es necesario buscar financiamiento externo (por ejemplo, inversores, rondas de capital, préstamos).  
+
+4. **Análisis de retorno de inversión (ROI):**  
+   - Calcular cuánto tiempo tardará el proyecto en generar ingresos suficientes para cubrir los costos iniciales y comenzar a ser rentable.  
+   - Identificar fuentes de ingresos (suscripciones, publicidad, licencias, etc.).  
+
+Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizable y sostenible, tanto en términos de capacidades del equipo como de los recursos financieros disponibles.
+
+
