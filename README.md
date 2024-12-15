@@ -51,23 +51,25 @@ Temporal: Completar el desarrollo de la aplicación con sus funcionalidades prin
   </tr>
   <tr>
     <td>Baja adopción por parte de los usuarios</td>
-    <td style="background-color: #FFBF00;">Media</td> 
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
+    <td><img src="https://via.placeholder.com/15/FFBF00/000000?text=+" alt="#FFBF00" /> Media</td>
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
   </tr>
   <tr>
     <td>Problemas técnicos durante el despliegue</td>
-    <td style="background-color: #FFBF00;">Media</td> 
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
+    <td><img src="https://via.placeholder.com/15/FFBF00/000000?text=+" alt="#FFBF00" /> Media</td>
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
   </tr>
   <tr>
     <td>Cambios en los requisitos del cliente</td>
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
-    <td style="background-color: #FFBF00;">Media</td> 
-    <td style="background-color: #FF0000; color: white;">Alta</td> 
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
+    <td><img src="https://via.placeholder.com/15/FFBF00/000000?text=+" alt="#FFBF00" /> Media</td>
+    <td><img src="https://via.placeholder.com/15/FF0000/FFFFFF?text=+" alt="#FF0000" /> Alta</td>
   </tr>
 </table>
+
+
 # Detalles
 
 ## Baja adopción por parte de los usuarios
