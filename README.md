@@ -250,7 +250,8 @@ Scrum brinda visibilidad del progreso del proyecto a través de **reuniones diar
 La metodología Scrum se alinea perfectamente con los objetivos del proyecto, permitiendo iterar sobre el desarrollo de funcionalidades y ajustarse a nuevas necesidades sin comprometer la calidad del producto final.
 
 ---
-![Tablero Kanban](img/Tablero-Kanban)
+![Tablero Kanban](img/Tablero-Kanban.png)
+
 
 
 
