@@ -208,19 +208,6 @@ Una representación gráfica de la FPP podría mostrar diferentes combinaciones 
 
 # Análisis de Beneficios
 
-Para evaluar los beneficios del proyecto, se utiliza la fórmula:
-
-$$
-F(x) = P \times Q
-$$
-
-Donde:
-
-- **P** es el precio por unidad de lo que se está vendiendo (en tu caso, puede ser una suscripción a la aplicación, licencias de uso, etc.).
-- **Q** es la cantidad de unidades vendidas.
-
-Por ejemplo, si el modelo de negocio se basa en suscripciones mensuales a la aplicación, el beneficio podría ser:
-
 $$
 F(x) = P \times Q
 $$
