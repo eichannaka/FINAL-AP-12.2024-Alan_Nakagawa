@@ -186,11 +186,7 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
 
 ---
 
-# Análisis de Factibilidad Técnica y Económica
-
 ## Frontera de Posibilidad de Producción (FPP)
-
-La **Frontera de Posibilidad de Producción (FPP)** representa las combinaciones máximas posibles de dos proyectos con los recursos disponibles. En este caso, se comparan el desarrollo del proyecto tecnológico actual y un proyecto comercial alternativo.
 
 ### Supuestos
 
