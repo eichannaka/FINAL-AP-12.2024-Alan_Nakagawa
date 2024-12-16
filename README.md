@@ -211,24 +211,20 @@ $$
 
 ### **Cálculo del Valor Presente Neto (VPN)**
 
-El **VPN** nos permite determinar si este proyecto es rentable al compararlo con el costo de oportunidad (8% anual, equivalente a 0.67% mensual).  
+El **VPN** nos permite determinar si este proyecto es rentable al compararlo con elmercado financiero (8% anual / 0.67% mensual).  
 
 - **Inversión inicial**: $42,500,000.  
 - **Flujos mensuales proyectados**: $2,916,667 (basados en un beneficio total esperado de $17,500,000 en 6 meses).  
 
-#### Fórmula del VPN:  
-\[
-VPN = \sum_{t=1}^{6} \frac{\text{FNE}}{(1 + i)^t} - \text{Inversión Inicial}
-\]
 
-1. Calculamos los flujos descontados para cada mes. La suma de todos los flujos proyectados a valor presente es de aproximadamente **$17,320,460**.  
+1. En base a la formula del VPN calculamos los flujos descontados para cada mes. La suma de todos los flujos proyectados a valor presente es de aproximadamente **$17,320,460**.  
 2. Restamos la inversión inicial:  
-   \[
-   VPN = 17,320,460 - 42,500,000 = -25,179,540
-   \]
+   
+   VPN = 17,500,460 - 42,500,000 = -25,000,000.
+   
 
 #### **Conclusión**:  
-El VPN es **negativo (-$25,179,540)**, lo que significa que este proyecto no es rentable frente a las alternativas. Esto refuerza la importancia de considerar proyectos con mayor retorno, como el comercial o las inversiones financieras.
+El VPN es **negativo (-$25,000,000.**, lo que significa que este proyecto no es rentable frente a las alternativas.
 
 
 
