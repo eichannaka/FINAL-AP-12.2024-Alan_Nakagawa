@@ -217,7 +217,7 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
   </tbody>
 </table>
 
-### Situaciones en la Frontera de Posibilidad de Producción (FPP)
+### Situaciones
 
 1. **100% en el proyecto tecnológico:**  
    La totalidad de los recursos disponibles ($42,500,000) se asignan al desarrollo del proyecto tecnológico. En este caso, no se realiza ninguna inversión en el proyecto comercial alternativo.
