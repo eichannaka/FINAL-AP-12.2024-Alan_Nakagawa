@@ -49,7 +49,7 @@ Completar el desarrollo de la aplicación con sus funcionalidades principales en
 ---
 
 
-## Riesgos identificados
+## Matriz de Riesgos identificados
 
 <table>
   <tr>
