@@ -184,5 +184,41 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
 3. **Conclusión:**
    El costo de oportunidad para este proyecto es **$17,500,000**, ya que representa el beneficio más alto dejado de obtener entre las alternativas consideradas. Esto refuerza la importancia de analizar todos los posibles escenarios antes de tomar decisiones estratégicas.
 
+---
+
+# Análisis de Factibilidad Técnica y Económica
+
+## Frontera de Posibilidad de Producción (FPP)
+
+La **Frontera de Posibilidad de Producción (FPP)** representa las combinaciones máximas posibles de dos proyectos con los recursos disponibles. En este caso, se comparan el desarrollo del proyecto tecnológico actual y un proyecto comercial alternativo.
+
+### Supuestos
+
+- El presupuesto total disponible es **$42,500,000**.
+- El proyecto tecnológico requiere el **100%** de los recursos asignados para completarse.
+- El proyecto comercial alternativo también necesita una inversión completa para generar un retorno de **$60,000,000**.
+- Los recursos son indivisibles; no se pueden realizar ambos proyectos simultáneamente.
+
+<table>
+  <thead>
+    <tr>
+      <th>Proyecto</th>
+      <th>Recursos Asignados ($)</th>
+      <th>Retorno Esperado ($)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Proyecto Tecnológico</td>
+      <td>$42,500,000</td>
+      <td>$42,500,000 (equivalente al beneficio intrínseco del proyecto)</td>
+    </tr>
+    <tr>
+      <td>Proyecto Comercial</td>
+      <td>$42,500,000</td>
+      <td>$60,000,000</td>
+    </tr>
+  </tbody>
+</table>
 
 
