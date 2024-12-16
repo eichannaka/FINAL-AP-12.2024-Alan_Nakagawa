@@ -202,10 +202,6 @@ Para dibujar la FPP en tu caso, debemos identificar las limitaciones en recursos
 - La productividad de cada área (Desarrollo, Marketing, Soporte) tiene **retornos decrecientes** (es decir, por cada unidad adicional de inversión, el retorno disminuye).
 - Existe una **relación trade-off**: más inversión en una área implica menos recursos disponibles para las demás.
 
-## FPP:
-
-Una representación gráfica de la FPP podría mostrar diferentes combinaciones de inversión en las tres áreas clave (desarrollo, marketing, mantenimiento), con el objetivo de maximizar los beneficios de tu proyecto.
-
 # Análisis de Beneficios
 
 Suponiendo que **P = 15.000** (el costo de la suscripción mensual) y **Q = 195** (número de empresas). Entonces:
