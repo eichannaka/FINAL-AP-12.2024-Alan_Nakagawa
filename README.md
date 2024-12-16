@@ -212,13 +212,11 @@ $$
 F(x) = P \times Q
 $$
 
-Supón que **P = 100** (el costo de la suscripción mensual) y **Q = 500** (número de usuarios). Entonces:
+Supón que **P = 15.000** (el costo de la suscripción mensual) y **Q = 195** (número de empresas). Entonces:
 
 $$
 F(x) = 100 \times 500 = 50,000 \quad (\text{beneficio mensual})
 $$
-
-El análisis de beneficios se centra en evaluar distintas decisiones (como cuánto invertir en marketing, qué precio cobrar, o cuántos usuarios pueden ser alcanzados) para maximizar la rentabilidad. La clave aquí es que los beneficios de cada decisión deben ser mayores que los costos de implementación.
 
 
 
