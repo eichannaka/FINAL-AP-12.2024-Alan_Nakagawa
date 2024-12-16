@@ -227,9 +227,9 @@ El **VPN** nos permite determinar si este proyecto es rentable al compararlo con
 El VPN es **negativo (-$25,000,000)**, lo que significa que este proyecto no es rentable frente a las alternativas.
 
 
-#7- Metodología de Desarrollo: Scrum
+#Metodología de Desarrollo: Scrum
 
-Para este proyecto, se ha seleccionado la **metodología ágil Scrum**, debido a sus características que permiten una entrega continua y adaptativa de funcionalidades. Scrum es ideal para entornos de desarrollo de software con cambios frecuentes y para equipos que buscan mantenerse alineados con las expectativas del cliente mientras entregan valor en ciclos cortos.
+Para este proyecto, seleccione la **metodología ágil Scrum**, debido a sus características que Scrum es ideal para entornos de desarrollo de software con cambios frecuentes y para equipos que buscan mantenerse alineados con las expectativas del cliente.
 
 ## Justificación
 
@@ -237,16 +237,13 @@ Para este proyecto, se ha seleccionado la **metodología ágil Scrum**, debido a
 La metodología Scrum permite realizar entregas incrementales a través de **sprints** (ciclos cortos de trabajo), lo que facilita la implementación de nuevas funcionalidades y la corrección de errores de manera continua. Además, se adapta a cambios en los requisitos del cliente durante todo el proceso de desarrollo.
 
 ### 2. **Enfoque en el Usuario**
-Scrum promueve una colaboración constante con los stakeholders (usuarios del sistema, en este caso los equipos de trabajo). Esta interacción asegura que el producto final cumpla con las expectativas de los usuarios y mejore con cada iteración.
+Scrum promueve una colaboración constante con los stakeholders. Esta interacción asegura que el producto final cumpla con las expectativas de los usuarios y mejore con cada iteración.
 
 ### 3. **Gestión de Riesgos**
 Dado que uno de los riesgos identificados es la baja adopción de la herramienta, Scrum permite realizar **pruebas frecuentes** con los usuarios, obteniendo retroalimentación inmediata que puede ser utilizada para ajustar el producto y facilitar la adopción.
 
 ### 4. **Visibilidad y Control**
 Scrum brinda visibilidad del progreso del proyecto a través de **reuniones diarias** y revisiones regulares, lo que permite detectar problemas rápidamente y ajustar el rumbo si es necesario. Esto es crucial para cumplir con el objetivo de entregar la aplicación en un plazo de **6 meses**.
-
-### 5. **Optimización del Trabajo en Equipo**
-Dado que el proyecto involucra colaboración entre múltiples miembros del equipo, Scrum fomenta la **comunicación constante** y mejora la productividad del equipo a través de roles definidos como **Scrum Master** y **Product Owner**, asegurando que todos trabajen en objetivos claros y alcanzables.
 
 ## Conclusión
 
