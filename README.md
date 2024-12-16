@@ -36,6 +36,16 @@ Completar el desarrollo de la aplicación con sus funcionalidades principales en
 2. Implementación de APIs para la modificación dinámica de colaboradores y tareas asociadas a proyectos.
 3. Validación de integridad referencial y pruebas de las relaciones en la base de datos.
 
+## Milestone 2: **Hashing de Datos Sensibles de los Colaboradores**
+- **Descripción:** Proteger la información sensible de los colaboradores mediante técnicas de hashing para datos como contraseñas, y cifrado para otros datos confidenciales.
+- **Objetivo:** Garantizar la seguridad de los datos sensibles almacenados en la base de datos cumpliendo con buenas prácticas de seguridad.
+- **Fecha límite:** **2 meses** después del inicio del proyecto.
+
+**Tareas asociadas:**
+1. Implementar el hashing seguro (ej.: bcrypt) para las contraseñas de los colaboradores.
+2. Aplicar cifrado AES-256 para datos confidenciales como números de identificación personal.
+3. Realizar auditorías de seguridad para garantizar la implementación adecuada.
+4. Documentar el enfoque de seguridad y cómo se integran las técnicas utilizadas en el sistema.
 
 ---
 
