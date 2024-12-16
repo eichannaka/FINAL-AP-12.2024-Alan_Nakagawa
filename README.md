@@ -216,7 +216,7 @@ El **VPN** nos permite determinar si este proyecto es rentable al compararlo con
 - **Inversión inicial**: $42,500,000.  
 - **Flujos mensuales proyectados**: $2,916,667 (basados en un beneficio total esperado de $17,500,000 en 6 meses).  
 
-####VPN
+#### Fórmula del VPN:  
 \[
 VPN = \sum_{t=1}^{6} \frac{\text{FNE}}{(1 + i)^t} - \text{Inversión Inicial}
 \]
