@@ -217,4 +217,14 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
   </tbody>
 </table>
 
+### Situaciones en la Frontera de Posibilidad de Producción (FPP)
+
+1. **100% en el proyecto tecnológico:**  
+   La totalidad de los recursos disponibles ($42,500,000) se asignan al desarrollo del proyecto tecnológico. En este caso, no se realiza ninguna inversión en el proyecto comercial alternativo.
+
+2. **100% en el proyecto comercial:**  
+   Los recursos disponibles ($42,500,000) se destinan completamente al proyecto comercial alternativo. Esto implica que el proyecto tecnológico no se ejecutará.
+
+3. **Punto intermedio:**  
+   No es posible distribuir los recursos entre ambos proyectos debido a su indivisibilidad. Por lo tanto, la empresa debe decidir entre uno de los dos proyectos.
 
