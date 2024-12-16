@@ -256,10 +256,11 @@ La metodología Scrum se alinea perfectamente con los objetivos del proyecto, pe
 
 ### Explicación del proceso de gestión de riesgos
 
-### La gestión de riesgos es el proceso de identificar, evaluar y priorizar los riesgos que pueden afectar el éxito de un proyecto. Una vez identificados los riesgos, se desarrollan estrategias para mitigarlos. Incluye monitorizar continuamente los riesgos durante todo el ciclo de vida del proyecto para asegurar que se tomen acciones cuando sea necesario.
+La gestión de riesgos es el proceso de identificar, evaluar y priorizar los riesgos que pueden afectar el éxito de un proyecto. Una vez identificados los riesgos, se desarrollan estrategias para mitigarlos. Incluye monitorizar continuamente los riesgos durante todo el ciclo de vida del proyecto para asegurar que se tomen acciones cuando sea necesario.
 
-### Estrategia de acción para el riesgo "Baja adopción por parte de los usuarios"
+Estrategia de acción para el riesgo "Baja adopción por parte de los usuarios"
 
 Para mitigar el riesgo de baja adopción, implementaremos un programa de capacitación para los usuarios y proporcionaremos soporte continuo para resolver dudas.
+
 ---
 
