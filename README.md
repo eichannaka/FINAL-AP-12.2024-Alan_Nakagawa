@@ -160,12 +160,6 @@ Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizabl
       <td>Logística: $500,000</td>
       <td></td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
