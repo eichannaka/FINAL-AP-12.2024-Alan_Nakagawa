@@ -126,4 +126,47 @@ La factibilidad económica analiza si los costos de desarrollar y mantener el pr
 
 Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizable y sostenible, tanto en términos de capacidades del equipo como de los recursos financieros disponibles.
 
+---
+
+## Análisis de Costos
+
+<table>
+  <thead>
+    <tr>
+      <th>Total</th>
+      <th>Producción</th>
+      <th>Administración</th>
+      <th>Venta</th>
+      <th>Financieros</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">$42,500,000</td>
+      <td>Desarrolladores (3 desarrolladores, 6 meses): $26,712,000</td>
+      <td>Sueldos: $6,000,000</td>
+      <td>Marketing: $1,500,000</td>
+      <td>Intereses de financiación: $800,000</td>
+    </tr>
+    <tr>
+      <td>Infraestructura (hosting, nube): $5,000,000</td>
+      <td>Gastos generales (oficina, servicios, software): $1,000,000</td>
+      <td>Departamento comercial: $1,200,000</td>
+      <td>Préstamos: $3,000,000</td>
+    </tr>
+    <tr>
+      <td>Soporte y mantenimiento anual: $3,000,000</td>
+      <td></td>
+      <td>Logística: $500,000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
