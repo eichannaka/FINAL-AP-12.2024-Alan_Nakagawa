@@ -186,45 +186,24 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
 
 ---
 
-## Frontera de Posibilidad de Producción (FPP)
+# Frontera de Posibilidad de Producción (FPP)
 
-### Supuestos
+La Frontera de Posibilidad de Producción (FPP) es una curva que muestra las combinaciones máximas de dos bienes o servicios que pueden ser producidos con un conjunto dado de recursos. En el caso de tu proyecto, los "bienes" podrían representar diferentes aspectos del desarrollo, como:
 
-- El presupuesto total disponible es **$42,500,000**.
-- El proyecto tecnológico requiere el **100%** de los recursos asignados para completarse.
-- El proyecto comercial alternativo también necesita una inversión completa para generar un retorno de **$60,000,000**.
-- Los recursos son indivisibles; no se pueden realizar ambos proyectos simultáneamente.
+- **Desarrollo del producto** (calidad del software, funcionalidades)
+- **Marketing y ventas** (promoción, expansión de usuarios)
+- **Mantenimiento y soporte** (actualizaciones y resolución de problemas)
 
-<table>
-  <thead>
-    <tr>
-      <th>Proyecto</th>
-      <th>Recursos Asignados ($)</th>
-      <th>Retorno Esperado ($)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Proyecto Tecnológico</td>
-      <td>$42,500,000</td>
-      <td>$42,500,000 (equivalente al beneficio intrínseco del proyecto)</td>
-    </tr>
-    <tr>
-      <td>Proyecto Comercial</td>
-      <td>$42,500,000</td>
-      <td>$60,000,000</td>
-    </tr>
-  </tbody>
-</table>
+Para dibujar la FPP en tu caso, debemos identificar las limitaciones en recursos y cómo la asignación de estos recursos afecta a la producción de cada "bien". Supongamos que puedes usar recursos limitados (en este caso, los $42,500,000) para invertir en las distintas áreas, y que para cada combinación de inversión en desarrollo, marketing y mantenimiento, tendrás diferentes niveles de beneficio.
 
-### Situaciones
+## Supuestos:
+- El presupuesto total de **$42,500,000** es limitado.
+- El recurso principal son los fondos disponibles (financieros).
+- La productividad de cada área (Desarrollo, Marketing, Soporte) tiene **retornos decrecientes** (es decir, por cada unidad adicional de inversión, el retorno disminuye).
+- Existe una **relación trade-off**: más inversión en una área implica menos recursos disponibles para las demás.
 
-1. **100% en el proyecto tecnológico:**  
-   La totalidad de los recursos disponibles ($42,500,000) se asignan al desarrollo del proyecto tecnológico. En este caso, no se realiza ninguna inversión en el proyecto comercial alternativo.
+## FPP:
 
-2. **100% en el proyecto comercial:**  
-   Los recursos disponibles ($42,500,000) se destinan completamente al proyecto comercial alternativo. Esto implica que el proyecto tecnológico no se ejecutará.
+Una representación gráfica de la FPP podría mostrar diferentes combinaciones de inversión en las tres áreas clave (desarrollo, marketing, mantenimiento), con el objetivo de maximizar los beneficios de tu proyecto.
 
-3. **Punto intermedio:**  
-   No es posible distribuir los recursos entre ambos proyectos debido a su indivisibilidad. Por lo tanto, la empresa debe decidir entre uno de los dos proyectos.
 
