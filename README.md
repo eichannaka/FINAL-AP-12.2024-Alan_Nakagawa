@@ -206,4 +206,32 @@ Para dibujar la FPP en tu caso, debemos identificar las limitaciones en recursos
 
 Una representación gráfica de la FPP podría mostrar diferentes combinaciones de inversión en las tres áreas clave (desarrollo, marketing, mantenimiento), con el objetivo de maximizar los beneficios de tu proyecto.
 
+# Análisis de Beneficios
+
+Para evaluar los beneficios del proyecto, se utiliza la fórmula:
+
+$$
+F(x) = P \times Q
+$$
+
+Donde:
+
+- **P** es el precio por unidad de lo que se está vendiendo (en tu caso, puede ser una suscripción a la aplicación, licencias de uso, etc.).
+- **Q** es la cantidad de unidades vendidas.
+
+Por ejemplo, si el modelo de negocio se basa en suscripciones mensuales a la aplicación, el beneficio podría ser:
+
+$$
+F(x) = P \times Q
+$$
+
+Supón que **P = 100** (el costo de la suscripción mensual) y **Q = 500** (número de usuarios). Entonces:
+
+$$
+F(x) = 100 \times 500 = 50,000 \quad (\text{beneficio mensual})
+$$
+
+El análisis de beneficios se centra en evaluar distintas decisiones (como cuánto invertir en marketing, qué precio cobrar, o cuántos usuarios pueden ser alcanzados) para maximizar la rentabilidad. La clave aquí es que los beneficios de cada decisión deben ser mayores que los costos de implementación.
+
+
 
