@@ -93,15 +93,14 @@ Implementar metodologías ágiles que permitan adaptarse rápidamente a nuevas d
 
 ### Factibilidad técnica y económica
 
-#### **Factibilidad técnica**  
-La factibilidad técnica evalúa si el equipo tiene los recursos tecnológicos y el conocimiento necesario para completar el proyecto. Algunos aspectos clave a considerar son:  
+#### **Factibilidad técnica** 
 
 1. **Herramientas y tecnologías disponibles:**  
    - Verificar si el equipo cuenta con el hardware y software necesario para el desarrollo, como computadoras, IDEs, frameworks, lenguajes de programación, bases de datos y servidores.  
-   - Evaluar si la infraestructura (por ejemplo, almacenamiento en la nube o servicios de hosting) soporta los requisitos de la aplicación.  
+   - Evaluar si la infraestructura (nube o servicios de hosting) soporta los requisitos de la aplicación.  
 
 2. **Conocimientos técnicos del equipo:**  
-   - Determinar si los integrantes del equipo tienen experiencia en las tecnologías requeridas (por ejemplo, desarrollo móvil, backend, APIs).  
+   - Determinar si los integrantes del equipo tienen experiencia en las tecnologías requeridas.  
    - Si hay brechas de conocimiento, prever capacitación o incorporar nuevos perfiles al equipo.  
 
 3. **Plazo de entrega:**  
@@ -113,7 +112,6 @@ La factibilidad técnica evalúa si el equipo tiene los recursos tecnológicos y
 ---
 
 #### **Factibilidad económica**  
-La factibilidad económica analiza si los costos de desarrollar y mantener el proyecto son sostenibles en relación con los recursos disponibles y los beneficios esperados. Incluye los siguientes puntos:  
 
 1. **Costos de desarrollo:**  
    - **Infraestructura:** Gastos en servidores, bases de datos, servicios en la nube o licencias de software.  
@@ -132,8 +130,6 @@ La factibilidad económica analiza si los costos de desarrollar y mantener el pr
 4. **Análisis de retorno de inversión (ROI):**  
    - Calcular cuánto tiempo tardará el proyecto en generar ingresos suficientes para cubrir los costos iniciales y comenzar a ser rentable.  
    - Identificar fuentes de ingresos (suscripciones, publicidad, licencias, etc.).  
-
-Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizable y sostenible, tanto en términos de capacidades del equipo como de los recursos financieros disponibles.
 
 ---
 
@@ -176,9 +172,7 @@ Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizabl
 
 ### Costo de Oportunidad
 
-En un escenario de recursos limitados, es importante analizar el costo de oportunidad al tomar decisiones sobre la asignación de recursos. El costo de oportunidad se refiere al valor de las alternativas que se dejan de lado al optar por una opción específica.
-
-Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A continuación, se detalla el análisis del costo de oportunidad:
+El presupuesto total asignado es de **$42,500,000**.
 
 1. **Alternativa no elegida:**
    - Invertir en un proyecto comercial con un retorno estimado de **$60,000,000**.
@@ -191,19 +185,15 @@ Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A conti
      $3,400,000 (retorno anual de la inversión financiera).
 
 3. **Conclusión:**
-   El costo de oportunidad para este proyecto es **$17,500,000**, ya que representa el beneficio más alto dejado de obtener entre las alternativas consideradas. Esto refuerza la importancia de analizar todos los posibles escenarios antes de tomar decisiones estratégicas.
+   El costo de oportunidad para este proyecto es de **$17,500,000**.
 
 ---
 
 # Frontera de Posibilidad de Producción (FPP)
 
-La Frontera de Posibilidad de Producción (FPP) es una curva que muestra las combinaciones máximas de dos bienes o servicios que pueden ser producidos con un conjunto dado de recursos. En el caso de tu proyecto, los "bienes" podrían representar diferentes aspectos del desarrollo, como:
-
 - **Desarrollo del producto** (calidad del software, funcionalidades)
 - **Marketing y ventas** (promoción, expansión de usuarios)
 - **Mantenimiento y soporte** (actualizaciones y resolución de problemas)
-
-Para dibujar la FPP en tu caso, debemos identificar las limitaciones en recursos y cómo la asignación de estos recursos afecta a la producción de cada "bien". Supongamos que puedes usar recursos limitados (en este caso, los $42,500,000) para invertir en las distintas áreas, y que para cada combinación de inversión en desarrollo, marketing y mantenimiento, tendrás diferentes niveles de beneficio.
 
 ## Supuestos:
 - El presupuesto total de **$42,500,000** es limitado.
@@ -218,6 +208,27 @@ Suponiendo que **P = 15.000** (el costo de la suscripción mensual) y **Q = 195*
 $$
 F(x) = 100 \times 500 = 50,000 \quad (\text{beneficio mensual})
 $$
+
+### **Cálculo del Valor Presente Neto (VPN)**
+
+El **VPN** nos permite determinar si este proyecto es rentable al compararlo con el costo de oportunidad (8% anual, equivalente a 0.67% mensual).  
+
+- **Inversión inicial**: $42,500,000.  
+- **Flujos mensuales proyectados**: $2,916,667 (basados en un beneficio total esperado de $17,500,000 en 6 meses).  
+
+####VPN
+\[
+VPN = \sum_{t=1}^{6} \frac{\text{FNE}}{(1 + i)^t} - \text{Inversión Inicial}
+\]
+
+1. Calculamos los flujos descontados para cada mes. La suma de todos los flujos proyectados a valor presente es de aproximadamente **$17,320,460**.  
+2. Restamos la inversión inicial:  
+   \[
+   VPN = 17,320,460 - 42,500,000 = -25,179,540
+   \]
+
+#### **Conclusión**:  
+El VPN es **negativo (-$25,179,540)**, lo que significa que este proyecto no es rentable frente a las alternativas. Esto refuerza la importancia de considerar proyectos con mayor retorno, como el comercial o las inversiones financieras.
 
 
 
