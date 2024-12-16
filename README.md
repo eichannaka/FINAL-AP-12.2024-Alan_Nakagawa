@@ -43,9 +43,8 @@ Completar el desarrollo de la aplicación con sus funcionalidades principales en
 
 **Tareas asociadas:**
 1. Implementar el hashing seguro (ej.: bcrypt) para las contraseñas de los colaboradores.
-2. Aplicar cifrado AES-256 para datos confidenciales como números de identificación personal.
-3. Realizar auditorías de seguridad para garantizar la implementación adecuada.
-4. Documentar el enfoque de seguridad y cómo se integran las técnicas utilizadas en el sistema.
+2. Realizar auditorías de seguridad para garantizar la implementación adecuada.
+3. Documentar el enfoque de seguridad y cómo se integran las técnicas utilizadas en el sistema.
 
 ---
 
