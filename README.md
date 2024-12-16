@@ -224,7 +224,7 @@ El **VPN** nos permite determinar si este proyecto es rentable al compararlo con
    
 
 #### **Conclusión**:  
-El VPN es **negativo (-$25,000,000.**, lo que significa que este proyecto no es rentable frente a las alternativas.
+El VPN es **negativo (-$25,000,000)**, lo que significa que este proyecto no es rentable frente a las alternativas.
 
 
 
