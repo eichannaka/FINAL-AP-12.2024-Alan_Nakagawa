@@ -208,11 +208,7 @@ Una representación gráfica de la FPP podría mostrar diferentes combinaciones 
 
 # Análisis de Beneficios
 
-$$
-F(x) = P \times Q
-$$
-
-Supón que **P = 15.000** (el costo de la suscripción mensual) y **Q = 195** (número de empresas). Entonces:
+Suponiendo que **P = 15.000** (el costo de la suscripción mensual) y **Q = 195** (número de empresas). Entonces:
 
 $$
 F(x) = 100 \times 500 = 50,000 \quad (\text{beneficio mensual})
