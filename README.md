@@ -163,4 +163,26 @@ Ambas evaluaciones son fundamentales para asegurar que el proyecto sea realizabl
   </tbody>
 </table>
 
+---
+
+### Costo de Oportunidad
+
+En un escenario de recursos limitados, es importante analizar el costo de oportunidad al tomar decisiones sobre la asignación de recursos. El costo de oportunidad se refiere al valor de las alternativas que se dejan de lado al optar por una opción específica.
+
+Para este proyecto, el presupuesto total asignado es de **$42,500,000**. A continuación, se detalla el análisis del costo de oportunidad:
+
+1. **Alternativa no elegida:**
+   - Invertir en un proyecto comercial con un retorno estimado de **$60,000,000**.
+   - Realizar inversiones en el mercado financiero con una tasa de retorno anual promedio del **8%**, lo que generaría **$3,400,000** en un año sobre el capital invertido.
+
+2. **Cálculo del costo de oportunidad:**
+   - **Proyecto alternativo:**  
+     $60,000,000 (beneficio estimado) - $42,500,000 (inversión en este proyecto) = **$17,500,000**.
+   - **Inversión financiera:**  
+     $3,400,000 (retorno anual de la inversión financiera).
+
+3. **Conclusión:**
+   El costo de oportunidad para este proyecto es **$17,500,000**, ya que representa el beneficio más alto dejado de obtener entre las alternativas consideradas. Esto refuerza la importancia de analizar todos los posibles escenarios antes de tomar decisiones estratégicas.
+
+
 
